@@ -1,0 +1,7 @@
+[2025-07-06 16:06:07,192] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.15.17:5000 - call_trace=C:\MvpFrontendAvançado\mvp-frontend-avancadoApi\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-07-06 16:06:07,195] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=C:\MvpFrontendAvançado\mvp-frontend-avancadoApi\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-07-06 16:06:07,200] INFO _log() L97    * Restarting with stat - call_trace=C:\MvpFrontendAvançado\mvp-frontend-avancadoApi\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-07-06 16:06:57,848] INFO _log() L97   127.0.0.1 - - [06/Jul/2025 16:06:57] "GET /externo/livros?titulo=teste HTTP/1.1" 200 - - call_trace=C:\MvpFrontendAvançado\mvp-frontend-avancadoApi\env\Lib\site-packages\werkzeug\_internal.py L97  
